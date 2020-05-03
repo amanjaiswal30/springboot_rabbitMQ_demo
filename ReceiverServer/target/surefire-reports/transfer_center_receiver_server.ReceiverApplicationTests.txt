@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: transfer_center_receiver_server.ReceiverApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.082 s - in transfer_center_receiver_server.ReceiverApplicationTests
