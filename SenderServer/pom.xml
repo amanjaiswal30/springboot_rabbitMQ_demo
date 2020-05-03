@@ -8,10 +8,10 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>cerner_transfer_center_receiver</groupId>
-	<artifactId>transfer_center_receiver</artifactId>
+	<groupId>receiver</groupId>
+	<artifactId>server_receiver</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>transfer_center</name>
+	<name>aman_server</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
