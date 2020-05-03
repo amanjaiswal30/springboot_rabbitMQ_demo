@@ -8,8 +8,8 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>transfer_center_receiver</groupId>
-	<artifactId>receiver</artifactId>
+	<groupId>receiver</groupId>
+	<artifactId>server_receiver</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>receiver</name>
 	<description>Demo project for Spring Boot</description>
