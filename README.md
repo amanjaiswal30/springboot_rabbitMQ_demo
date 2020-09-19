@@ -1,1 +1,1 @@
-# springboot_rabbitMQ_demo
+# Springboot RabbitMQ Demo
